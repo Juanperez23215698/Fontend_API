@@ -1,0 +1,39 @@
+/* Estilos para el formulario */
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color:#D7DBDD  ;
+}
+
+/* Estilos para las etiquetas de formulario */
+.form-label {
+    font-weight: bold;
+}
+
+/* Estilos para los campos de entrada */
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilos para el botón de enviar */
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Estilos para el mensaje de ayuda */
+.form-text {
+    color: #666;
+}
